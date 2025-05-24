@@ -35,4 +35,4 @@ Sweet Shop — это учебный онлайн-магазин по прода
 
 - Telegram: @Far_and_Way  
 - Email: juliav333@gmail.com
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/julia-kozhushkova/)
+- LinkedIn: [linkedin.com/in/julia-kozhushkova](https://www.linkedin.com/in/julia-kozhushkova/)
